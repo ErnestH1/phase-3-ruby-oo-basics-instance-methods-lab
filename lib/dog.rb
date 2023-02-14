@@ -12,4 +12,8 @@ class Dog
     
     fido = Dog.new
     fido.bark
+    fido.sit
     
+    snoopy = Dog.new
+    snoopy.bark
+    snoopy.sit
